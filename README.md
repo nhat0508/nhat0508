@@ -1,5 +1,5 @@
-#👋 Hi, I'm Minh Nhat Nguyen  
-###Automation Engineering Student | Automation & Control Systems Enthusiast  
+# 👋 Hi, I'm Minh Nhat Nguyen  
+### Automation Engineering Student | Automation & Control Systems Enthusiast  
 ---
 ✨ Hi, I’m currently studying Automation Engineering with a strong interest in automation systems, control logic, and system-level engineering.  
 My focus is on understanding how industrial and cyber-physical systems are designed, tested, and verified, with a growing interest in automation beyond factory environments, such as R&D, robotics, and platform-level automation.
@@ -15,12 +15,12 @@ Driven by curiosity and a hands-on mindset, I enjoy working with real systems �
 
 📁 Take a look at my repositories to see academic projects, automation logic, and experiments related to control and system integration.
 ---
-###🌱 Experience  
+### 🌱 Experience  
 - Automation Engineering student at Seinäjoki University of Applied Sciences (SeAMK)  
 - Former Marketing Automation Intern, focusing on workflow automation using n8n  
 - Hands-on experience with PLC-based automation stations through academic projects  
 ---
-###🛠️ Technical Skills  
+### 🛠️ Technical Skills  
 
 **Automation & Control**
 - PLC basics (Siemens TIA Portal, TwinCAT)  
@@ -43,7 +43,7 @@ Driven by curiosity and a hands-on mindset, I enjoy working with real systems �
 - Automation system structure  
 - Testing and verification logic  
 ---
-###🌐 Languages  
+### 🌐 Languages  
 - Vietnamese (Native)  
 - English (Working proficiency)  
 ---
