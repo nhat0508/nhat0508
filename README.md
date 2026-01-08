@@ -55,5 +55,4 @@ Driven by curiosity and a hands-on mindset, I enjoy working with real systems �
 ---
 ### 📫 **Contact**  
 📍 Seinäjoki, Finland  
-✉️ your.email@domain.com  
-🔗 GitHub: https://github.com/yourusername
+✉️ nhat.nguyen@seamk.fi 
