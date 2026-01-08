@@ -22,7 +22,7 @@ Driven by curiosity and a hands-on mindset, I enjoy working with real systems �
 
 📁 Take a look at my repositories to see academic projects, automation logic, and experiments related to control and system integration.
 ---
-### 🌱 Experience  
+### 🌱 Experiences  
 - Automation Engineering student at Seinäjoki University of Applied Sciences (SeAMK)  
 - Former Marketing Automation Intern, focusing on workflow automation using n8n  
 - Hands-on experience with PLC-based automation stations through academic projects  
