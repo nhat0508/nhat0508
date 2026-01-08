@@ -5,7 +5,9 @@
 ### Automation Engineering Student | Automation & Control Systems Enthusiast  
 
 </div>
+
 ---
+
 ### ✨ Hi, I’m currently studying Automation Engineering with a strong interest in automation systems, control logic, and system-level engineering.  
 My focus is on understanding how industrial and cyber-physical systems are designed, tested, and verified, with a growing interest in automation beyond factory environments, such as R&D, robotics, and platform-level automation.
 
@@ -26,7 +28,6 @@ Driven by curiosity and a hands-on mindset, I enjoy working with real systems �
 - Hands-on experience with PLC-based automation stations through academic projects  
 ---
 ### 🛠️ **Technical Skills** 
-
 **Automation & Control**
 - PLC basics (Siemens TIA Portal, TwinCAT)  
 - Sensors, actuators, and basic control logic  
