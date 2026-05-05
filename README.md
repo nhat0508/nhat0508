@@ -55,4 +55,5 @@ Driven by curiosity and a hands-on mindset, I enjoy working with real systems �
 ---
 ### 📫 **Contact**  
 📍 Seinäjoki, Finland  
-✉️ nhat.nguyen@seamk.fi 
+✉️ nhat.nguyen@seamk.fi | nmnhat0508@gmail.com
+    
